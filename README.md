@@ -39,4 +39,4 @@ Result Digit Board -
 
 Accuracy Score -
 
-<img src=""/>
+<img src="Accuracy score img.png"/>
