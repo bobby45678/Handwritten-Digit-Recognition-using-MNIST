@@ -33,3 +33,4 @@ This project focuses on detecting handwritten digits using machine learning tech
 
 <h1>Result</h1>
 Result Digit Board -
+<img src="Digit_board_image (1).png"/>
