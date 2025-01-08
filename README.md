@@ -33,7 +33,7 @@ This project focuses on detecting handwritten digits using machine learning tech
 
 <h1>Result</h1>
 Result Digit Board -
-<img src="Digit_board_image (1).png"/>
+<img src="https://raw.githubusercontent.com/AnshulRathee/Handwritten-Digit-Recognition-using-MNIST/refs/heads/main/Digit_board_image.png"/>
 
 <h1>Project Related Images</h1>
 
