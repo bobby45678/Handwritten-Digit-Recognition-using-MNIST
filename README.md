@@ -39,4 +39,4 @@ Result Digit Board -
 
 Accuracy Score -
 
-<img src="Accuracy score img.png"/>
+<img src="https://raw.githubusercontent.com/bobby45678/Handwritten-Digit-Recognition-using-MNIST/7a5df831ef857445cf46a5911208873706bd13bf/Accuracy%20score%20img.png?token=BOJECVOPHNZ75TM6CQNEEL3HP3B6W"/>
