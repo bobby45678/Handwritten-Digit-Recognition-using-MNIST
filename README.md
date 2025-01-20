@@ -55,10 +55,6 @@ Model Summary -
 
 The project utilizes the MNIST dataset, which is included in many machine learning libraries or can be downloaded from MNIST.
 
-<h1>Contributors</h1>
-
-<ul><li>Anshul Rathee</li></ul>
-
 <h1>License</h1>
 
 This project is licensed under the Apache License 2.0.
